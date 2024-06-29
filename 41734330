@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<htmllang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewpoint"content="width=device-width,initial-sale=1.0">
+<title>Product Listing</title>
+<style>
+/*style the table*/
+<table>
+border-collapse:collapse;width:100%/*Adjust width as needed*/
+}
+/*style table headers*/
+th{
+padding:10px;
+text-align:left;
+background-color:#f2f2f2;
+border:1px solid#ddd
+}
+/*style table cells*/
+td{
+padding:10px
+border:1pxsolid#ddd
+}
+/*Alternate row colors for better readability*/
+tr:nth-child(even){
+background-color:#f9f9f9;
+}
+/*style image*/
+img{
+widthL:100px;/*Adjust image width as needed*/height:auto;
+}
+</style>
+</head>
+<body>
+ <table>
+    <th>
+      <tr> 
+       <th>image</th>
+       <th>product Name</th>
+       <th>Description</th>
+       <th>price</th>
+       <th>Buy Now</th>
+       </tr>
+       </th>
+       <tbody>
+       <tr>
+
+
